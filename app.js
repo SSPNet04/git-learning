@@ -1,1 +1,2 @@
-console.log("Hello World");
+console.log("Konnichiwa");
+console.log("TestDesu");
